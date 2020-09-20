@@ -1,2 +1,2 @@
-# synergetics-control-theory
-projects for synergetics control theory discipline
+# synergetic-control-theory
+Assignments for the Synergetic Control Theory course.
